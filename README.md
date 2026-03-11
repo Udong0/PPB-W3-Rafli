@@ -1,17 +1,33 @@
-# flutter_application_1
+# PPB W3
 
-A new Flutter project.
+Muhammad Rafli Abdillah (5025231028)
 
-## Getting Started
+## Widget
 
-This project is a starting point for a Flutter application.
+- MaterialApp: Widget root yang mengatur aplikasi Material Design.
 
-A few resources to get you started if this is your first Flutter project:
+- Scaffold: Menyediakan struktur halaman dengan AppBar dan body.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- AppBar: Bilah atas halaman dengan judul.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Column: Mengatur widget anak dalam kolom vertikal.
+
+- Container: Wadah dengan margin, padding, warna, dll.
+
+- AspectRatio: Memaksa rasio aspek anak.
+
+- Center: Memusatkan anak.
+
+- Image.network: Menampilkan gambar dari URL.
+
+- Text: Menampilkan teks.
+
+- Row: Mengatur widget anak dalam baris horizontal.
+
+- Icon: Menampilkan ikon.
+
+- StatefulWidget: Widget yang memiliki state, seperti CounterCard.
+
+- State: Kelas yang mengelola state untuk StatefulWidget.
+
+
